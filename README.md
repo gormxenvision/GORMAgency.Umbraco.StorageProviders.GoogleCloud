@@ -6,6 +6,12 @@ The Google Cloud Storage provider has an implementation of the Umbraco IFileSyst
 
 ### Installation
 
+Install via Package Manager Console
+
+```powershell
+Install-Package GORMAgency.Umbraco.StorageProviders.GoogleCloud
+```
+
 ### Configuration
 
 This provider can be added in the `Startup.cs` file:

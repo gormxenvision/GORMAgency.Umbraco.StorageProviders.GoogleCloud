@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GORMAgency.Umbraco.StorageProviders.GoogleCloud", "GORMAgency.Umbraco.StorageProviders.GoogleCloud\GORMAgency.Umbraco.StorageProviders.GoogleCloud.csproj", "{C39A1582-AFFA-4F96-9D86-D096EE83E279}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C39A1582-AFFA-4F96-9D86-D096EE83E279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C39A1582-AFFA-4F96-9D86-D096EE83E279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C39A1582-AFFA-4F96-9D86-D096EE83E279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C39A1582-AFFA-4F96-9D86-D096EE83E279}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {200C4483-F027-492C-A166-AB0D14A496C6}
+	EndGlobalSection
+EndGlobal
